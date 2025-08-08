@@ -1,0 +1,6 @@
+This is a basic demo application for a Student Portal
+- Student Dashboard
+- Course Enrollment
+- Grades and Transcripts
+-Timetable / Schedule
+-Announcements and Messages
