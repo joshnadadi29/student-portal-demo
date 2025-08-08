@@ -4,3 +4,4 @@ This is a basic demo application for a Student Portal
 - Grades and Transcripts
 -Timetable / Schedule
 -Announcements and Messages
+-Assignment Management (Optional)
